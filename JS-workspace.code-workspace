@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"explorer.compactFolders": false,
+	
+		"editor.fontFamily": "Fira Code",
+		"editor.fontLigatures": true
+	}
+}
